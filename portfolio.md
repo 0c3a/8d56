@@ -1,3 +1,7 @@
+The previous hosting service has been sanctioned due to its ties to a Russian entity.
+
+This page has been set up as a temporary measure to host the portfolio, sorry for the lack of professionalism.
+
 ![00](https://github.com/0c3a/8d56/blob/main/r/00.png)
 
 ![01](https://github.com/0c3a/8d56/blob/main/r/01.png)
