@@ -1,6 +1,6 @@
-    The previous hosting service has been sanctioned due to its ties to a Russian entity.
+    My domain and blog hosting service has been sanctioned due to its ties to a Russian entity.
     
-    This page has been set up as a temporary measure to host my portfolio, sorry for the lack of professionalism.
+    This page has been set up as a temporary measure to host my portfolio, apologies for the lack of professionalism.
 
 ![00](https://github.com/0c3a/8d56/blob/main/r/00.png)
 
